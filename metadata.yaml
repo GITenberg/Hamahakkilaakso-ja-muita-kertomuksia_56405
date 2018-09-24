@@ -1,0 +1,41 @@
+_repo: Hamahakkilaakso-ja-muita-kertomuksia_56405
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anttila, Werner
+    aliases:
+    - Andelin, Verner
+    - Anttila, Verner
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '39087'
+    url: http://www.gutenberg.org/2009/agents/39087
+    wikipedia: https://fi.wikipedia.org/wiki/Werner_Anttila
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: 'Translations of selected stories from "Twelve Stories and a Dream,"
+  #1743.'
+gutenberg_issued: '2018-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56405'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories, English -- Translations into Finnish'
+- GITenberg
+tableOfContents: Hämähäkkilaakso -- Herra Ledbetterin virkaloma -- Herra Brisherin
+  aarre.
+title: Hämähäkkilaakso ja muita kertomuksia
+url: http://www.gutenberg.org/ebooks/56405
